@@ -1,0 +1,5 @@
+
+Name= thilakarathna
+Age= 22
+Sallary=23000
+Working Position=cashiyer

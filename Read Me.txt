@@ -1,0 +1,3 @@
+you must need a login password to access this application. so the login password is " 1122 " . it is inserted in "password.txt" file. so you must need to copy all thease items to one folder and run the application.
+
+thank you.....
